@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'therubyracer'
 gem 'less-rails'
 gem 'twitter-bootstrap-rails'
+gem 'devise'
 
 
 gem 'rails', '3.2.11'
